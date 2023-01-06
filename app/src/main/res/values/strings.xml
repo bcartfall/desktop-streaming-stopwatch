@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Desktop Streaming Stopwatch</string>
+    <string name="timer_default">00:00:00</string>
+</resources>
