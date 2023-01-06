@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Streaming Stopwatch</string>
-    <string name="timer_default">00:00:00</string>
+    <string name="timer_default">00:00:000</string>
 </resources>
