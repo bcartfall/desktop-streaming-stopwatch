@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven { url "https://dl.bintray.com/videolan/Android" }
     }
 }
-rootProject.name = "Desktop Streaming Clock"
+rootProject.name = "Desktop Streaming Stopwatch"
 include ':app'

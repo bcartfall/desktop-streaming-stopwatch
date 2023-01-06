@@ -1,4 +1,4 @@
-# Desktop Streaming Clock
+# Desktop Streaming Stopwatch
 
 This application was developed to solve the problem of not being able to fully focus on a video while completing all workout activities. This is the android application that receives the RTSP video capture from the desktop server. See https://github.com/bcartfall/desktop-streaming-server for the desktop application.
 

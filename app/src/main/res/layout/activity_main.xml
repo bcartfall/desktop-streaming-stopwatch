@@ -12,7 +12,7 @@
         android:layout_height="match_parent">
     </org.videolan.libvlc.util.VLCVideoLayout>
 
-    <com.hutzmedia.desktopstreamingclock.TimerTextView
+    <com.hutzmedia.desktopstreamingstopwatch.TimerTextView
         android:id="@+id/textView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

@@ -3,7 +3,7 @@
  * Copyright 2023-01-05
  * See README.md
  */
-package com.hutzmedia.desktopstreamingclock
+package com.hutzmedia.desktopstreamingstopwatch
 
 import android.net.Uri
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.hutzmedia.desktopstreamingclock
+package com.hutzmedia.desktopstreamingstopwatch
 
 import android.content.Context
 import android.graphics.Canvas

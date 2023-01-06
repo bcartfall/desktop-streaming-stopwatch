@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.hutzmedia.desktopstreamingclock"
+        applicationId "com.hutzmedia.desktopstreamingstopwatch"
         minSdk 30
         targetSdk 32
         versionCode 1
@@ -29,7 +29,7 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-    namespace 'com.hutzmedia.desktopstreamingclock'
+    namespace 'com.hutzmedia.desktopstreamingstopwatch'
 }
 
 dependencies {
